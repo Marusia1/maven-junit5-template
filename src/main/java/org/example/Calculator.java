@@ -1,6 +1,9 @@
 package org.example;
 
 public class Calculator {
+
+
+
     //1.1 Sum of two positive Integer values
     public int calculateSumOfTwoIntegerValues(int firstValue, int secondValue) {
         return firstValue + secondValue;

@@ -9,7 +9,7 @@
 | 2.2 | Subtracting zero from a positive number equals same positive number               |  Pass  |
 | 2.3 | Subtracting zero from a negative number equals same negative number               |  Pass  |
 | 2.4 | Subtracting greater number from less number equals negative number                |  Pass  |
-| --- | **The Last task**                                                                 |  ---   |**
+| --- | **The Last task**                                                                 |  ---   |
 | 3.1 | The First value is Greater than Second value (positive)                           |  Pass  |
 | 3.2 | The First value is Greater than Second value (negative)                           |  Pass  |
 | --- | **Additional checklist without execution**                                        |  ---   |
@@ -22,4 +22,4 @@
 | 5.2 | Dividing a positive number by itself results in one                               |        |
 | 5.3 | Dividing a positive number by one gives the same positive number                  |        |
 | 5.4 | Dividing a positive number by 0 gives 0                                           |        |
-| --- | ----                                                                              | ---    |
+| --- | ----                                                                              |  ---   |
