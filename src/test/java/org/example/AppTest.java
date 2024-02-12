@@ -20,20 +20,18 @@ public class AppTest {
     }
 
     @Test
-    public void checkTwoValuesNotEquals(){
-        assertNotEquals( 3 , 4);
+    public void checkTwoValuesNotEquals() {
+        assertNotEquals(3, 4);
     }
 
     @Test
-    public void shouldAnswerWithTrue()
-    {
-        assertTrue( 3 == 3 );
+    public void shouldAnswerWithTrue() {
+        assertTrue(3 == 3);
     }
 
     @Test
-    public void shouldAnswerWithFalse()
-    {
-        assertFalse( 4 < 2 );
+    public void shouldAnswerWithFalse() {
+        assertFalse(4 < 2);
     }
 
 
