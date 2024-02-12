@@ -1,6 +1,8 @@
 package org.example;
 
 public class Calculator {
+
+
     //1.1 Sum of two positive Integer values
     public int calculateSumOfTwoIntegerValues(int firstValue, int secondValue) {
         return firstValue + secondValue;
@@ -30,6 +32,7 @@ public class Calculator {
     public int calculateSubtractionOfZeroValueFromPositiveNumber(int nineteenValue, int twentiethValue) {
         return nineteenValue - twentiethValue;
     }
+
     //2.3 Subtracting zero from a negative number equals the same negative number
     public int calculateSubtractionOfZeroFromNegativeNumber(int twentyFirstValue, int twentySecondValue) {
         return twentyFirstValue - twentySecondValue;
@@ -41,6 +44,7 @@ public class Calculator {
         return twentyThirdValue - twentyFourthValue;
 
     }
+
     // 3.1 checking that the first value is greater than second one (Positive scenario)
     public boolean calculateTheFirstValueIsGreaterThanSecond(int ninthValue, int tenthValue) {
         return ninthValue > tenthValue;
@@ -53,17 +57,16 @@ public class Calculator {
     }
 
 
+    // 6 homework. Task with multiplication floating dot and division floating dot.
 
-    // multiplication of two integer values
-    public int calculateMultiplicationOfTwoIntegerValues(int fifthValue, int sixthValue) {
-        return fifthValue * sixthValue;
-
-    }
-    // division of two integer values
-    public int calculateDivisionOfTwoIntegerValues(int seventhValue, int eighthValue) {
-        return seventhValue / eighthValue;
+    // 6.1 multiplication of two integer values with floating dot
+    public double calculateMultiplyOfTwoIntegerValues(double twentySixValue, double twentySevenValue) {
+        return twentySixValue * twentySevenValue;
     }
 
-
+    // 6.2 division of two integer values with floating dot
+    public double calculateDivisionOfTwoIntegerValues(double twentyEightValue, double twentyNineValue) {
+        return twentyEightValue / twentyNineValue;
+    }
 
 }
