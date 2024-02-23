@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class CalculatorTest {
 
-    private Calculator calculator;
+    private Calculator Calculator;
 
     @BeforeAll
     static void setUpForAllTest() {
@@ -20,7 +20,7 @@ public class CalculatorTest {
 
     @BeforeEach
     void setUp() {
-        calculator = new Calculator();
+        Calculator calculator = new Calculator();
         System.out.println("Setting up calculator object for new test");
     }
 

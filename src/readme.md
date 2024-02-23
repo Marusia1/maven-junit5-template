@@ -14,5 +14,5 @@
 | 3.2 | The First value is Greater than Second value (negative)                        |  Pass  |
 | --- | 6 HOMEWORK                                                                     |  ---   |
 | 4.1 | Multiplication of two positive integer values with floating dot and delta      |  Pass  |
-| --- | ----                                                                           |  ---   |
+| --- | -----                                                                          |  ---   |
 | 5.1 | Division of two positive integer values with floating dot and delta            |  Pass  |
